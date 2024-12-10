@@ -2,6 +2,7 @@ import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ExpressServerTest {
 
